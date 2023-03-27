@@ -1,0 +1,13 @@
+Database Name: kufa
+password: 
+user: root
+
+
+home page link: localhost/kufa/
+admin page link: localhost/kufa/admin
+
+admin email: baizid@gmail.com
+admin password: Aa12@
+
+----------------//---------------------
+you can find database name and all configuration about database in admin/dashboard_parts/config.php 
